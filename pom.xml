@@ -35,6 +35,10 @@
             <sonar.host.url>http://localhost:9000</sonar.host.url>
             <sonar.token>squ_d656924fdaeed52736657eb377e80e72d8fd5304</sonar.token>
 
+
+        <sonar.organization>shibu</sonar.organization>
+
+
     </properties>
 	<dependencies>
 		<dependency>
